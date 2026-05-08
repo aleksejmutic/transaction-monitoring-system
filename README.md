@@ -59,7 +59,7 @@ python3 server.py
 
 ### 6. Generate traffic (example: card testing attack)
 
-> Open a **third terminal** and activate the virtual environment.
+> Open a **new terminal** and activate the virtual environment.
 
 ```bash
 cd api_simulator

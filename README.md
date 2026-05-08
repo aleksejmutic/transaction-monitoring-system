@@ -1,4 +1,4 @@
-# Transaction Monitoring System – Fraud Detection with Kafka + Neo4j
+# Transaction Monitoring System
 
 This project simulates a real-time financial transaction API, streams every deposit/transfer through Kafka, and loads the data into a Neo4j graph database. Fraud patterns (circular flows, shared device rings, card testing) are later detected by querying the graph.
 
@@ -19,7 +19,7 @@ This project simulates a real-time financial transaction API, streams every depo
 
 ---
 
-## Quick Start (Complete Pipeline)
+## How to run the program
 
 ### 1. Create and activate virtual environment (from project root)
 

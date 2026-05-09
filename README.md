@@ -74,7 +74,6 @@ python3 card_testing.py --count 30 --amount 1.99 --merchant "victim_shop"
 python3 normal_client.py
 ```
 
----
 
 # Attack Patterns
 

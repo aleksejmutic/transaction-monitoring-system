@@ -21,7 +21,7 @@ This project simulates a real-time financial transaction API, streams every depo
 
 ## How to run the program
 
-Important: python, kafka-python and flask are locally installed on my pc, so they should exist locally, since they are not included inside of the docker-compose file.
+Important: python, kafka-python and flask are locally installed on my pc, so they should exist locally, since they are not included inside of the docker-compose file. The clientside code also runs on localhost. 
 
 ### 1. Create and activate virtual environment (from project root)
 
